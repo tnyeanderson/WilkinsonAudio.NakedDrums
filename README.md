@@ -5,6 +5,10 @@ up to 5 velocity layers and several mic layers (Direct, OH, Close room,
 Far rooms, Mid-side and Wide OH). Originally available free in Kontakt nki format,
 now created as SFZ format v2 (ARIA extensions) with flac samples by kinwie.
 
+## Fork
+
+This fork exists to manage the `keymap.txt` for my Alesis Nitro Pro XL kit.
+
 ## Shells
 
 - Yamaha Recording Custom - Cherry
